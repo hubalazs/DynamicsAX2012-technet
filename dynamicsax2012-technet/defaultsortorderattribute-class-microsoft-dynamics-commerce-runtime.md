@@ -16,7 +16,7 @@ dev_langs:
 
 # DefaultSortOrderAttribute Class
 
-This class defines an attribute that can be applied to commerce entity classs to define default sort order.
+This class defines an attribute that can be applied to commerce entity class to define default sort order.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  
 **Assembly:**  Microsoft.Dynamics.Commerce.Runtime.Framework (in Microsoft.Dynamics.Commerce.Runtime.Framework.dll)

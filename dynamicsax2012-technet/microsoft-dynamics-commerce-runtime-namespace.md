@@ -115,7 +115,7 @@ dev_langs:
 <tr class="even">
 <td><img src="images/Dn988315.pubclass(en-us,AX.60).gif" title="Public class" alt="Public class" /></td>
 <td><a href="defaultsortorderattribute-class-microsoft-dynamics-commerce-runtime.md">DefaultSortOrderAttribute</a></td>
-<td>This class defines an attribute that can be applied to commerce entity classs to define default sort order.</td>
+<td>This class defines an attribute that can be applied to commerce entity class to define default sort order.</td>
 </tr>
 <tr class="odd">
 <td><img src="images/Dn988315.pubclass(en-us,AX.60).gif" title="Public class" alt="Public class" /></td>
